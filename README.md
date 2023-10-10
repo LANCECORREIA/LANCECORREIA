@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Lance's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LANCECORREIA&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=LANCECORREIA)
 
 # Pinned
 <p align="center">
